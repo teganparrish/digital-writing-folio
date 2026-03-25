@@ -30,4 +30,4 @@ Activity: Look at the diagrams on p.93 of (Aarseth 1997) reading and the categor
 
 Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
 
-Anna Jacobson's 'How to Knit a Human' balances an illusion of choice with an exploratory narrative. 
+Anna Jacobson's 'How to Knit a Human' balances an illusion of choice with an exploratory narrative. Guiding through a hospital sequence, to 'freedom', the narrative feels somewhat linear whereby the choices seem to lead to the same 'end point'. Fragmented story-telling is possibly reminiscent of the concepts explored through memory gaps (the ETC's). 
