@@ -23,3 +23,11 @@ In terms of “non-trivial effort”, the phrase originates from Espen Aarseth�
 Read (6 minutes) and discuss Jenny's second GenAI/'JenAI' blog post and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
 
 Tracking the 'tools of making' is essential. It ensures that any kind of experimentation is iterative and shareable. Jenny posits its neccesity for troubleshooting as attributions to failed experiements can result in developing new parameters for refined future versions. Furthermore, the tracking captures a certain techlogoical moment where the precise hardware used, highlighting historical ___ to a technoloigcally advancing society. Knowledge-sharing allows others to view and use the work for their own purposes, and ___.
+
+## Week 4 Reflection
+
+Activity: Look at the diagrams on p.93 of (Aarseth 1997) reading and the categories: author; narrator; narratee; reader. Look at the diagrams on p. 103 and 104 of (Ryan 2006) reading and the categories of internal v external interactivity and exploratory v ontological interactivity
+
+Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
+
+Anna Jacobson's 'How to Knit a Human' balances an illusion of choice with an exploratory narrative. 
