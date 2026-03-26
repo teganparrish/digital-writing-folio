@@ -31,3 +31,7 @@ Activity: Look at the diagrams on p.93 of (Aarseth 1997) reading and the categor
 Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
 
 Anna Jacobson's 'How to Knit a Human' balances an illusion of choice with an exploratory narrative. Guiding through a hospital sequence, to 'freedom', the narrative feels somewhat linear whereby the choices seem to lead to the same 'end point'. Fragmented story-telling is possibly reminiscent of the concepts explored through memory gaps (the ETC's). 
+
+### Week 4 Thursday
+
+In terms of my digital writing final, I have this concept to explore an expanded form of a 'Self-Portrait'. Broader implications explore the arduous journey of growing up - starting from birth, teens years and finally adulthood. Choices on what the do, maybe gives people a chance to change what they regret - i.e. something embarassing in the teenage years, or making a huge financial decision in adulthood. Yet, ultimately it would still end up in the same space as no matter the decision (whether right or wrong), you are exactly where you should be and who you are. It'll be about coming to grips with reality, accepting the flaws and ____. Jenny's third blog gives rise to this in that through choosing particular pieces to be 'mimicked' by the AI, she discovered a certain tone about her person, or what it was assuming about her, when in actuality, we must search for and continue to push for the new self that is "yet to be written" (Jenny Hadley, 2026).
