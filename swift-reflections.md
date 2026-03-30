@@ -31,7 +31,7 @@ At this point in time, I find myself almost somewhere between the two forces. I 
 
 Read (6 minutes) and discuss Jenny's second GenAI/'JenAI' blog post and then reflect upon the importance of tracking tools of making (e.g., for iterative purposes, for troubleshooting, as research capture situated in a particular time (since tech evolves so quickly), to network/pool knowledge with peers, to situate ideas in relation to the field).
 
-Tracking the 'tools of making' is essential. It ensures that any kind of experimentation is iterative and shareable. Jenny posits its neccesity for troubleshooting as attributions to failed experiements can result in developing new parameters for refined future versions. Furthermore, the tracking captures a certain techlogoical moment where the precise hardware used, highlighting historical ___ to a technoloigcally advancing society. Knowledge-sharing allows others to view and use the work for their own purposes, and ___.
+Tracking the 'tools of making' is essential. It ensures that any kind of experimentation is iterative and shareable. Jenny posits its neccesity for troubleshooting as attributions to failed experiements can result in developing new parameters for refined future versions. Furthermore, the tracking captures a certain techlogoical moment where the precise hardware used, highlighting historical context to a technoloigcally advancing society. Knowledge-sharing allows others to view and use the work for their own purposes, and adapt or extend it for their own personal purpose.
 
 ## Week 4 Reflection
 
