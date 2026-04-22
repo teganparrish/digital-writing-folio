@@ -44,3 +44,13 @@ Anna Jacobson's 'How to Knit a Human' balances an illusion of choice with an exp
 ### Week 4 Thursday
 
 In terms of my digital writing final, I have this concept to explore an expanded form of a 'Self-Portrait'. Broader implications explore the arduous journey of growing up - starting from birth, teens years and finally adulthood. Choices on what the do, maybe gives people a chance to change what they regret - i.e. something embarassing in the teenage years, or making a huge financial decision in adulthood. Yet, ultimately it would still end up in the same space as no matter the decision (whether right or wrong), you are exactly where you should be and who you are. It'll be about coming to grips with reality, accepting the flaws and learning the hardships of growing up. Jenny's third blog gives rise to this in that through choosing particular pieces to be 'mimicked' by the AI, she discovered a certain tone about her person, or what it was assuming about her, when in actuality, we must search for and continue to push for the new self that is "yet to be written" (Jenny Hadley, 2026).
+
+## Week 6 Reflection 
+
+Planning session #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
+In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
+
+## Week 7 Reflection
+
+SWIFT REFLECTION: Iteration #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
+Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
