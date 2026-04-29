@@ -50,7 +50,14 @@ In terms of my digital writing final, I have this concept to explore an expanded
 Planning session #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
 In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
 
+The idea is coming together well, however, _________________. I need to see if the idea works better in Twine (Harlowe) or 
+
 ## Week 7 Reflection
 
 SWIFT REFLECTION: Iteration #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
 Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+
+In terms of iteration, this method has been central to my development of my digital piece. Most significantly was shifting from Twine to using a Java script/HTML structure. In the beginning, Twine seemed to be the most logical choice, as it seemed to be the least complicated to use, as well as having ‘rooms’ to jump between, that branch off and loop back. However, in terms of aesthetic and atmospheric design, it really didn’t appeal to me and felt almost constrictive in what I wanted to create. Elements such as the growing garden silhouette, the colour transition from black and white to green, and the specific typography could only be explored in a more flexible environment. Re-trying the story in a Javascript setting, while still needing tweaking, has proven much more effective to what I imagined. 
+Furthermore, more iterations involve the room structure themselves. Initially, I had prefaced an idea where it was only a single page where readers would click on areas of an image to reveal the poetry, similarly to the act of turning a page. However, this felt static and in plain terms, going nowhere, creating a sort of disconnection. Thus, changing to room-to-room navigation allowed the stages of life to be explored more thoroughly and effectively. 
+Nonetheless, there are still some areas requiring further iteration. One example being the images/drawings I would like on each page/room. Looking at single-line drawings, I am testing how to create these, and if they are even to fit alongside digital typography without causing visual conflict.
+
