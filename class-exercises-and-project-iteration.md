@@ -15,5 +15,6 @@ Last week I needed to define three key tasks which are as follows: choosing betw
 The first task was completed as I decided to move forward with JavaScript - essentially, it proved to be a far more flexible platform, allowing for all the visual ambitions I had for the piece (particularly the growing garden sequence in the background and transition from black to green colour). I also personally did not like the ‘look’ of Twine and appeared too restrictive for what the piece entailed, and hence, switching to HTML/CSS structure appealed to all these needs.
 The line drawings are still in progress with only 1 complete so far. I experimented with placement and scale, still figuring out how I want the image to look alongside the text. I also need to rework the image so it has an invisible background, to not conflict with the background of the piece.
 Finally, the poetry is complete. I completed all the rooms and am happy with the work. Obviously, I will continue to make edits and changes before the final submission in case of any alterations with image/audio work. This took slightly longer than expected due to platform changes, however, in essence, the text itself is complete. 
+
 Priorities moving forward are coding bug fixes, adding in audio, finishing off drawings, and deciding on either text transitions or image/animation ones. No extension needed!
 
