@@ -50,7 +50,11 @@ In terms of my digital writing final, I have this concept to explore an expanded
 Planning session #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
 In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
 
-The idea is coming together well, however, _________________. I need to see if the idea works better in Twine (Harlowe) or 
+The idea is coming together well, however, I still need to focus on several unresolved elements to ensure the piece is working its way towards a completed project. The architecture of the piece itself is solid and the structure of the rooms work cohesively together, however the platform decision, visual language, and the actual writing need some finalising. Some key tasks to complete before the week 8 presentations are:
+1. Make the decision to use Twine (Harlowe) or JavaScript/HTML. I am going to test both platforms to see which I prefer in terms of visual aesthetic and how much creative control I can have over each element of the piece to make sure it aligns with my vision. 
+2. Fix the troubles with the single continuous line drawings. I intend to experiment with the drawing approach to sit alongside the typography. Perhaps look at some animation coding or GIF making to insert into the piece due the transitions. I also wish to try and work with AI to create these, or draw myself if possible. 
+3. Finally, I need to finish all the writing for the remaining rooms. Some rooms at the moment have placeholder text or drafts. I need to finish all 21 rooms to make sure the full emotional arc is complete and comes through from birth to adulthood. 
+ 
 
 ## Week 7 Reflection
 
