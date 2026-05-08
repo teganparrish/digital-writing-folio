@@ -65,3 +65,4 @@ In terms of iteration, this method has been central to my development of my digi
 Furthermore, more iterations involve the room structure themselves. Initially, I had prefaced an idea where it was only a single page where readers would click on areas of an image to reveal the poetry, similarly to the act of turning a page. However, this felt static and in plain terms, going nowhere, creating a sort of disconnection. Thus, changing to room-to-room navigation allowed the stages of life to be explored more thoroughly and effectively. 
 Nonetheless, there are still some areas requiring further iteration. One example being the images/drawings I would like on each page/room. Looking at single-line drawings, I am testing how to create these, and if they are even to fit alongside digital typography without causing visual conflict.
 
+See Class exercises and Iteration for other 2 answers to assessment 2 documentation :)
