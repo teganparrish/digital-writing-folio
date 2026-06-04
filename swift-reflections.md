@@ -81,3 +81,8 @@ Through taking on this feedback, I want the animation to be compelling and a wor
 Adjust colour contrast — lighten text or adjust background opacity so poetry is legible across all rooms. To do this week.
 Source and implement audio — add ambient sound files to at least the Birth stage rooms to demonstrate the full atmospheric effect. To do this week.
 Rework poetry in remaining rooms — deepen emotional register across the Teen and Adult stages, with particular attention to the regret rooms. To do by end of next week.
+
+## Week 10 Part 2
+
+
+## Week 10 Part 3
