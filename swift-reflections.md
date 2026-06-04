@@ -66,3 +66,13 @@ Furthermore, more iterations involve the room structure themselves. Initially, I
 Nonetheless, there are still some areas requiring further iteration. One example being the images/drawings I would like on each page/room. Looking at single-line drawings, I am testing how to create these, and if they are even to fit alongside digital typography without causing visual conflict.
 
 See Class exercises and Iteration for other 2 answers to assessment 2 documentation :)
+
+## Week 10 Reflection/Progress for Final Piece
+
+Questions to consider: could the written parts of the work be developed if so, how? What do you want more of as a reader/user? What are you curious about? Is there room for more complexity? Or on the contrary, is there a need for futher clarity and simplification?
+
+#THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+Summarize the feedback you have received and consider what you will take on and what you might leave aside
+
+In consideration, the written parts could be updated with more emotional and strong language that evokes certain reactions from the viewer. From feedback given by peers and teachers, the possibility for incorporating more animated aspects could be interesting; adding in some movement with transitions between rooms could create a better atmospheric experience. Further, the colour palette was deemed too dark, making the poetry and growing garden difficult to read, so changing this to a more lighter colour and experiment with shades should be completed next. Further, there was some questioning around the end of the piece (i.e. whether there should be alternate endings), however a single convergence point seems like the right path to me as a point of acceptance. Life has a path and having more than one ending gives reason for the reader to try again from the beginning, but that isn’t what it should be. We can rethink some choices or ‘go back’ but in the end, you’ll end up in the same place anyway. 
+Through taking on this feedback, I want the animation to be compelling and a worthwhile exploration, to act alongside the already growing garden (maybe transitions with a moving school bell for growth between birth and teen years). In terms of colour, this is a practical fix which I can take on board straight away. 
