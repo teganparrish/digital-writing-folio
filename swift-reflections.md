@@ -100,6 +100,16 @@ The narrative arc here moves from loss to retrieval to acceptance. Seeking an ar
 
 ## Week 10 Part 3
 
+Complete a SWIFT REFLECTION which is a partial, 250-word draft Critical Reflection #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+
+Some key learning moments for me, or in other words, ‘light-bulb’ encounters, were recognising the form and whether or not it serves or resists an idea. My original piece that sat on the page, didn’t engage its true purpose as prose failed to offer an structural equivalent to the act of making choices and living with those consequences. Digital literature could. 
+
+From undertaking this studio, and seeing other student’s approaches to interactivity and digital creation allowed me to explore what I did and didn’t want. Some used their works for spectacles and playing with colours and explosiveness, I sought interest in restraint through a black and white world, which only breaks through to colour in the final acceptance. This idea came through peer discussion and an iterative process, which was surprising. 
+
+Seeing Jenny Hedley’s ‘screaming’ animation and Hayles (2007) framing of e-lit as a structure where computational environments can in itself be expressive, allowed me to produce the idea of the garden silhouette which serves not as a visual feature but a structural argument; growth illustrated without commentary. In a similar fashion, the regret loops were framed through digestion of Aarseth’s (1997) ergodic theory. So even though these choices felt emotionally intuitive, they were also grounded in theory, as effort from the reader is not incidental, but rather, constitutive of the piece’s meaning. 
+
+Moreover, utilising Hedley’s method of generative AI as a co-pilot, I used Claude to assist with coding aspects that I was unfamiliar with. I pushed boundaries with generating single line continuous drawings, which ultimately were a failure, but an experiment nonetheless. Where the future of digital writing fits into my practice is still unknown, however, I look forward to testing the waters some more, and learning how it may amplify my ideas that printed literature may not. 
+
 ## Week 11 and 12
 
 What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.
