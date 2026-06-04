@@ -84,5 +84,18 @@ Rework poetry in remaining rooms — deepen emotional register across the Teen a
 
 ## Week 10 Part 2
 
+Complete a SWIFT REFLECTION with 50-word responses to each of the above questions #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASSESS 3#
+
+1. What place do affect and emotion have in digital works?
+
+Hedley’s piece shows how digital forms still have the ability to ‘affect’ - and, in actuality, can amplify it. The letter created by the JenAI from her deceased mother was able to create grief, which is something a machine is unlikely to be capable of. Emotion through the digital form can be found in the gap between the coldness of code created writing, and the warmth from human touch where meaning thrives. 
+
+2. How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?
+
+Hedley’s reference to Derrida’s archive fever and Kristeva’s ‘chora’ allows the piece to transcend from personal response into an argument. Connecting to theory allows the concept of grief to have a framework, giving way for legibility as opposed to personal reflection. Thus, including theory does not create distance, but rather gives emotion a place to stand.
+
+3. What narrative arc do you detect in this piece and how does adding a narrative frame make reflective writing more satisfying?
+   
+The narrative arc here moves from loss to retrieval to acceptance. Seeking an archive, Hedley finds something perhaps richer than memory. The morbid humour of the cat dying and one-woman show signifies the acceptance of this, and hence, the narrative frame shifts methodology into mourning, allowing the reader to feel as opposed to just understand. 
 
 ## Week 10 Part 3
