@@ -99,3 +99,13 @@ Hedley’s reference to Derrida’s archive fever and Kristeva’s ‘chora’ a
 The narrative arc here moves from loss to retrieval to acceptance. Seeking an archive, Hedley finds something perhaps richer than memory. The morbid humour of the cat dying and one-woman show signifies the acceptance of this, and hence, the narrative frame shifts methodology into mourning, allowing the reader to feel as opposed to just understand. 
 
 ## Week 10 Part 3
+
+## Week 11 and 12
+
+What aspect of your Ass 3 submission needs the most attention? Create a priority list with soft deadlines to meet up until June 5.
+Finish off reflections
+Draft final critical reflection 
+Final touches to the poetry piece
+Author website !!!
+
+See Bitsy Game pushblished through GitHub Pages :) 
